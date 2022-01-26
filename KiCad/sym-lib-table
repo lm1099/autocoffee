@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SDP-rescue)(type Legacy)(uri ${KIPRJMOD}/SDP-rescue.lib)(options "")(descr ""))
+  (lib (name 2021-11-27_00-37-09)(type Legacy)(uri "${KIPRJMOD}/KiCAD Libraries/ul_BD4269EFJ-CE2/KiCAD/2021-11-27_00-37-09/2021-11-27_00-37-09.lib")(options "")(descr ""))
+)

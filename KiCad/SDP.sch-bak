@@ -1,0 +1,52 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 7
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 4050 1050 900  900 
+U 61A16853
+F0 "FilterSubsystem" 50
+F1 "FilterSubsystem.sch" 50
+$EndSheet
+$Sheet
+S 5550 1050 900  900 
+U 61AE609F
+F0 "GrinderSubsystem" 50
+F1 "GrinderSubsystem.sch" 50
+$EndSheet
+$Sheet
+S 7050 1050 900  900 
+U 61AEE15F
+F0 "WaterSubsystem" 50
+F1 "WaterSubsystem.sch" 50
+$EndSheet
+$Sheet
+S 8550 1050 900  900 
+U 61B02AAC
+F0 "BrewingSubsystem" 50
+F1 "BrewingSubsystem.sch" 50
+$EndSheet
+$Sheet
+S 2550 1050 900  900 
+U 61B02E31
+F0 "PowerSubsystem" 50
+F1 "PowerSubsystem.sch" 50
+$EndSheet
+$Sheet
+S 1050 1050 900  900 
+U 61B02C78
+F0 "MicroController" 50
+F1 "MicroController.sch" 50
+$EndSheet
+$EndSCHEMATC

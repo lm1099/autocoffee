@@ -1,0 +1,280 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 7 7
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Notes Line
+	8550 550  8550 2950
+$Comp
+L SDP-rescue:PIC24FJ128GA010-I_PT-2021-11-26_22-35-22 U?
+U 1 1 61B13705
+P 1800 1200
+AR Path="/61B13705" Ref="U?"  Part="1" 
+AR Path="/61B02C78/61B13705" Ref="U?"  Part="1" 
+F 0 "U?" H 4500 1587 60  0000 C CNN
+F 1 "PIC24FJ128GA010-I_PT" H 4500 1481 60  0000 C CNN
+F 2 "TQFP100_12x12MC_MCH" H 4500 1440 60  0001 C CNN
+F 3 "" H 1800 1200 60  0000 C CNN
+	1    1800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61B15CBA
+P 1100 1300
+F 0 "#PWR?" H 1100 1150 50  0001 C CNN
+F 1 "+3.3V" H 1115 1473 50  0000 C CNN
+F 2 "" H 1100 1300 50  0001 C CNN
+F 3 "" H 1100 1300 50  0001 C CNN
+	1    1100 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61B16E8A
+P 1100 2700
+F 0 "#PWR?" H 1100 2550 50  0001 C CNN
+F 1 "+3.3V" H 1115 2873 50  0000 C CNN
+F 2 "" H 1100 2700 50  0001 C CNN
+F 3 "" H 1100 2700 50  0001 C CNN
+	1    1100 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61B1820C
+P 1100 4800
+F 0 "#PWR?" H 1100 4650 50  0001 C CNN
+F 1 "+3.3V" H 1115 4973 50  0000 C CNN
+F 2 "" H 1100 4800 50  0001 C CNN
+F 3 "" H 1100 4800 50  0001 C CNN
+	1    1100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61B19144
+P 1100 5700
+F 0 "#PWR?" H 1100 5550 50  0001 C CNN
+F 1 "+3.3V" H 1115 5873 50  0000 C CNN
+F 2 "" H 1100 5700 50  0001 C CNN
+F 3 "" H 1100 5700 50  0001 C CNN
+	1    1100 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 5700 1100 5700
+Wire Wire Line
+	1100 4800 1800 4800
+Wire Wire Line
+	1100 1300 1800 1300
+Wire Wire Line
+	1100 2700 1800 2700
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61B1AA25
+P 7900 5000
+F 0 "#PWR?" H 7900 4850 50  0001 C CNN
+F 1 "+3.3V" H 7915 5173 50  0000 C CNN
+F 2 "" H 7900 5000 50  0001 C CNN
+F 3 "" H 7900 5000 50  0001 C CNN
+	1    7900 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7900 5000 7200 5000
+$Comp
+L power:GND #PWR?
+U 1 1 61B1C1E3
+P 7900 3700
+F 0 "#PWR?" H 7900 3450 50  0001 C CNN
+F 1 "GND" H 7905 3527 50  0000 C CNN
+F 2 "" H 7900 3700 50  0001 C CNN
+F 3 "" H 7900 3700 50  0001 C CNN
+	1    7900 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61B1CEB2
+P 8150 4700
+F 0 "#PWR?" H 8150 4450 50  0001 C CNN
+F 1 "GND" H 8155 4527 50  0000 C CNN
+F 2 "" H 8150 4700 50  0001 C CNN
+F 3 "" H 8150 4700 50  0001 C CNN
+	1    8150 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 4700 7200 4700
+Wire Wire Line
+	7900 3700 7200 3700
+$Comp
+L power:GND #PWR?
+U 1 1 61B1EA71
+P 900 5600
+F 0 "#PWR?" H 900 5350 50  0001 C CNN
+F 1 "GND" H 905 5427 50  0000 C CNN
+F 2 "" H 900 5600 50  0001 C CNN
+F 3 "" H 900 5600 50  0001 C CNN
+	1    900  5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  5600 900  5450
+Wire Wire Line
+	900  5450 1300 5450
+Wire Wire Line
+	1300 5450 1300 5600
+Wire Wire Line
+	1300 5600 1800 5600
+$Comp
+L power:GND #PWR?
+U 1 1 61B1F9D1
+P 900 4700
+F 0 "#PWR?" H 900 4450 50  0001 C CNN
+F 1 "GND" H 905 4527 50  0000 C CNN
+F 2 "" H 900 4700 50  0001 C CNN
+F 3 "" H 900 4700 50  0001 C CNN
+	1    900  4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  4700 900  4550
+Wire Wire Line
+	900  4550 1300 4550
+Wire Wire Line
+	1300 4550 1300 4700
+Wire Wire Line
+	1300 4700 1800 4700
+$Comp
+L power:GND #PWR?
+U 1 1 61B203C2
+P 900 2600
+F 0 "#PWR?" H 900 2350 50  0001 C CNN
+F 1 "GND" H 905 2427 50  0000 C CNN
+F 2 "" H 900 2600 50  0001 C CNN
+F 3 "" H 900 2600 50  0001 C CNN
+	1    900  2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  2600 900  2450
+Wire Wire Line
+	900  2450 1300 2450
+Wire Wire Line
+	1300 2450 1300 2600
+Wire Wire Line
+	1300 2600 1800 2600
+Wire Notes Line
+	550  550  550  6450
+Wire Notes Line
+	550  6450 8450 6450
+Wire Notes Line
+	8450 6450 8450 550 
+Wire Notes Line
+	8450 550  550  550 
+Text Notes 8750 1350 0    50   ~ 0
+PIC24\n
+Text Notes 10450 2900 0    50   ~ 10
+Bluetooth Module
+NoConn ~ 9050 1650
+NoConn ~ 9050 1850
+NoConn ~ 9050 1950
+NoConn ~ 9050 2050
+NoConn ~ 10450 2050
+NoConn ~ 10450 1950
+NoConn ~ 10450 1850
+NoConn ~ 10450 1750
+NoConn ~ 10450 1650
+NoConn ~ 10450 1550
+NoConn ~ 10450 1450
+Wire Wire Line
+	9650 2350 9650 2450
+Wire Wire Line
+	9850 2450 9850 2350
+$Comp
+L power:GND #PWR?
+U 1 1 61B07C78
+P 9850 2450
+F 0 "#PWR?" H 9850 2200 50  0001 C CNN
+F 1 "GND" H 9855 2277 50  0000 C CNN
+F 2 "" H 9850 2450 50  0001 C CNN
+F 3 "" H 9850 2450 50  0001 C CNN
+	1    9850 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61B07C72
+P 9650 2450
+F 0 "#PWR?" H 9650 2200 50  0001 C CNN
+F 1 "GND" H 9655 2277 50  0000 C CNN
+F 2 "" H 9650 2450 50  0001 C CNN
+F 3 "" H 9650 2450 50  0001 C CNN
+	1    9650 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9750 1050 9750 1150
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61B07C6B
+P 9750 1050
+F 0 "#PWR?" H 9750 900 50  0001 C CNN
+F 1 "+3.3V" H 9765 1223 50  0000 C CNN
+F 2 "" H 9750 1050 50  0001 C CNN
+F 3 "" H 9750 1050 50  0001 C CNN
+	1    9750 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9050 1450 8950 1450
+Wire Wire Line
+	8950 1550 9050 1550
+Text GLabel 8950 1550 0    50   Input ~ 0
+P49
+Text GLabel 8950 1450 0    50   Input ~ 0
+P50
+$Comp
+L RF_Bluetooth:RN4871 U?
+U 1 1 61B07C61
+P 9750 1750
+F 0 "U?" H 9850 2450 50  0000 C CNN
+F 1 "RN4870" H 9950 2350 50  0000 C CNN
+F 2 "RF_Module:Microchip_RN4871" H 9750 1050 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/50002489A.pdf" H 9250 2300 50  0001 C CNN
+	1    9750 1750
+	1    0    0    -1  
+$EndComp
+Text GLabel 1800 6100 0    50   Input ~ 0
+P50
+Text GLabel 1800 6000 0    50   Input ~ 0
+P49
+Text Notes 1000 6100 0    50   ~ 0
+Bluetooth UART
+Wire Notes Line
+	1600 5950 950  5950
+Wire Notes Line
+	950  5950 950  6150
+Wire Notes Line
+	950  6150 1600 6150
+Wire Notes Line
+	11150 2950 11150 550 
+Wire Notes Line
+	8550 2950 11150 2950
+Wire Notes Line
+	11150 550  8550 550 
+Text Notes 7550 6400 0    50   ~ 10
+PIC24 Microcontroller
+$EndSCHEMATC
