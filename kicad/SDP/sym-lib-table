@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name "2022-01-26_02-38-45")(type "Legacy")(uri "${KIPRJMOD}/Libraries/ul_PIC24FJ128GA010-I-PF/2022-01-26_02-38-45.lib")(options "")(descr ""))
   (lib (name "2022-01-26_03-45-48")(type "Legacy")(uri "${KIPRJMOD}/Libraries/ul_PIC24FJ128GA010-I-PT/2022-01-26_03-45-48.lib")(options "")(descr ""))
 )
