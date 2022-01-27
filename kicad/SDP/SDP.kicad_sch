@@ -1669,11 +1669,11 @@
         )
       )
     )
-    (symbol "power:+24V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:+12V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "+24V" (id 1) (at 0 3.556 0)
+      (property "Value" "+12V" (id 1) (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (id 2) (at 0 0 0)
@@ -1685,10 +1685,10 @@
       (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"+24V\"" (id 5) (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"+12V\"" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "+24V_0_1"
+      (symbol "+12V_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -1714,9 +1714,9 @@
           (fill (type none))
         )
       )
-      (symbol "+24V_1_1"
+      (symbol "+12V_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "+24V" (effects (font (size 1.27 1.27))))
+          (name "+12V" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -3096,22 +3096,6 @@
     (pin "2" (uuid 13887ad8-ac9d-4d63-85a9-3affea284df6))
   )
 
-  (symbol (lib_id "power:+24V") (at 39.37 31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 1be3e15d-4b9c-4cb1-b64b-2e6c6e28a3d9)
-    (property "Reference" "#PWR?" (id 0) (at 39.37 35.56 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+24V" (id 1) (at 39.37 26.67 0))
-    (property "Footprint" "" (id 2) (at 39.37 31.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 39.37 31.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c93ea604-b7f0-4000-bd5b-3f07817cda14))
-  )
-
   (symbol (lib_id "Device:C") (at 666.75 21.59 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 22bd0cc1-1dcd-4461-9bcb-bac1be733cde)
@@ -4049,6 +4033,22 @@
     (pin "1" (uuid 5c911ba1-95ca-4256-9e4c-55f7d27bad5e))
   )
 
+  (symbol (lib_id "power:+12V") (at 39.37 33.02 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid e3807980-a1cd-416c-873b-dd543df8b2fd)
+    (property "Reference" "#PWR?" (id 0) (at 39.37 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+12V" (id 1) (at 39.37 27.94 0))
+    (property "Footprint" "" (id 2) (at 39.37 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 39.37 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7aa9dd73-4807-4063-99f0-eb8031d9cd0f))
+  )
+
   (symbol (lib_name "GND_2") (lib_id "power:GND") (at 226.06 223.52 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e4860a43-b5c8-40dc-8cba-8d3d99207cb6)
@@ -4174,14 +4174,26 @@
     (pin "1" (uuid 57b2d365-c2f5-4a5b-a0da-dbd3ed3ca79a))
   )
 
-  (sheet (at 326.39 33.02) (size 22.86 19.05) (fields_autoplaced)
+  (sheet (at 356.87 60.96) (size 20.32 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 60ab11df-7ec6-4862-a63f-21a5fb7314af)
+    (property "Sheet name" "GrinderSubsystem" (id 0) (at 356.87 60.2484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "grindersubsystem.kicad_sch" (id 1) (at 356.87 80.5946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 356.87 31.75) (size 20.32 19.05) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid a4a83c44-c8e0-453d-a09d-7474e32229cb)
-    (property "Sheet name" "FilterSubsystem" (id 0) (at 326.39 32.3084 0)
+    (property "Sheet name" "FilterSubsystem" (id 0) (at 356.87 31.0384 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "filtersubsystem.kicad_sch" (id 1) (at 326.39 52.6546 0)
+    (property "Sheet file" "filtersubsystem.kicad_sch" (id 1) (at 356.87 51.3846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -4189,6 +4201,7 @@
   (sheet_instances
     (path "/" (page "1"))
     (path "/a4a83c44-c8e0-453d-a09d-7474e32229cb" (page "2"))
+    (path "/60ab11df-7ec6-4862-a63f-21a5fb7314af" (page "3"))
   )
 
   (symbol_instances
@@ -4198,14 +4211,8 @@
     (path "/0b2b85c7-de88-4ec2-ad81-491d234c4f13"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/a4a83c44-c8e0-453d-a09d-7474e32229cb/101b1325-4279-4b67-96d2-6b5c97b1c400"
-      (reference "#PWR?") (unit 1) (value "+24V") (footprint "")
-    )
     (path "/13d8bfa6-d7d2-43b6-8fd6-aa77f4d342d5"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/1be3e15d-4b9c-4cb1-b64b-2e6c6e28a3d9"
-      (reference "#PWR?") (unit 1) (value "+24V") (footprint "")
     )
     (path "/a4a83c44-c8e0-453d-a09d-7474e32229cb/22bb47d2-cad7-4e6f-9d0c-9f1abf96059d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -4273,6 +4280,9 @@
     (path "/a4a83c44-c8e0-453d-a09d-7474e32229cb/c070d2cc-8a32-4be1-96a6-74303653f7b0"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/a4a83c44-c8e0-453d-a09d-7474e32229cb/c3b10306-ffea-4360-a540-14b7f64a3a06"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
     (path "/c7457898-24d2-471b-adfd-6c8f1092010b"
       (reference "#PWR?") (unit 1) (value "+3.3VA") (footprint "")
     )
@@ -4290,6 +4300,9 @@
     )
     (path "/decce20d-9e41-4c57-88bd-2649528f21fd"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/e3807980-a1cd-416c-873b-dd543df8b2fd"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
     )
     (path "/e4860a43-b5c8-40dc-8cba-8d3d99207cb6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")

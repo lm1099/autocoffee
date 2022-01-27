@@ -324,6 +324,10 @@
     [
       "a4a83c44-c8e0-453d-a09d-7474e32229cb",
       "FilterSubsystem"
+    ],
+    [
+      "60ab11df-7ec6-4862-a63f-21a5fb7314af",
+      "GrinderSubsystem"
     ]
   ],
   "text_variables": {}
