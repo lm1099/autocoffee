@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "50TZV100M")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_50TZV100M8X10-5/footprints.pretty")(options "")(descr ""))
+  (lib (name "DR125-220-R")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_DR125-220-R/footprints.pretty")(options "")(descr ""))
+  (lib (name "ECS-80-20-5PXDU-TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ECS-80-20-5PXDU-TR")(options "")(descr ""))
+  (lib (name "CFS206")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_CFS206-32-768-KDZF-UB/footprints.pretty")(options "")(descr ""))
+  (lib (name "Keystone_1056")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_1056/footprints.pretty")(options "")(descr ""))
+)
