@@ -1,9 +1,9 @@
 # SDP DT05 - AutoCoffee
 
 ## To-do
+- Add power headers
+- Layout main PCB
 - Finish power PCB schematic
-- Find appropriate ferrite bead
-- Research solid-state relays
 
 ## Done
 - Voltage regulators (12V to 5V, 3.3V)
