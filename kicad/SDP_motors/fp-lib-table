@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "50TZV100M8X10")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_50TZV100M8X10-5/footprints.pretty")(options "")(descr ""))
+)
