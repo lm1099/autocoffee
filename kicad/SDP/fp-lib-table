@@ -11,4 +11,5 @@
   (lib (name "EEETG1C331UP")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_EEETG1C331UP/footprints.pretty")(options "")(descr ""))
   (lib (name "EEVTG1C471Q")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_EEVTG1C471Q/footprints.pretty")(options "")(descr ""))
   (lib (name "1825910-6")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1825910-6")(options "")(descr ""))
+  (lib (name "AB38T-32")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AB38T-32.768KHZ")(options "")(descr ""))
 )

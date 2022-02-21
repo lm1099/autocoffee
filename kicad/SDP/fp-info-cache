@@ -1,4 +1,4 @@
-20068279200240675
+20069924665816338
 50TZV100M
 50TZV100M8X10.5
 
@@ -20,6 +20,13 @@ TE_5555165-1
 0
 6
 6
+AB38T-32
+XTAL_AB38T-32.768KHZ
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
