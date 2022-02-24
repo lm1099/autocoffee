@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Landon\Documents\University of Akron\SDP\autocoffee\kicad\SDP_motors\SDP_motors.kicad_sch</source>
+    <date>2/23/2022 1:58:24 PM</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SDP_motors.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5ae839e-c734-4863-91ce-491a11673b6d</tstamps>
+    </comp>
+    <comp ref="A2">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>017f8add-6e3f-4e61-bfb9-bb86b95da9bf</tstamps>
+    </comp>
+    <comp ref="A3">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9eeee55-11db-45d8-a97a-184d8b8fd15a</tstamps>
+    </comp>
+    <comp ref="A4">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e7b245a-0b9f-409c-b16c-2d472805650a</tstamps>
+    </comp>
+    <comp ref="A5">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a95acde-a20e-4fc2-a942-c79d527badc8</tstamps>
+    </comp>
+    <comp ref="A6">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54a7fb1f-aa18-437f-b6bc-91b17fac93ac</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>50TZV100M8X10.5</value>
+      <footprint>50TZV100M8X10:50TZV100M8X10.5</footprint>
+      <libsource lib="2022-02-09_01-18-55" part="50TZV100M8X10.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d31f7396-d426-4478-a325-ca08e26ab957</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>50TZV100M8X10.5</value>
+      <footprint>50TZV100M8X10:50TZV100M8X10.5</footprint>
+      <libsource lib="2022-02-09_01-18-55" part="50TZV100M8X10.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ecf3b1b-a101-433e-a11b-9766ba985125</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>50TZV100M8X10.5</value>
+      <footprint>50TZV100M8X10:50TZV100M8X10.5</footprint>
+      <libsource lib="2022-02-09_01-18-55" part="50TZV100M8X10.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1842bc4d-8f86-45d7-97f3-5c1fe2065d86</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>50TZV100M8X10.5</value>
+      <footprint>50TZV100M8X10:50TZV100M8X10.5</footprint>
+      <libsource lib="2022-02-09_01-18-55" part="50TZV100M8X10.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90a4987f-2377-4967-bf74-fc10c8132ef6</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>50TZV100M8X10.5</value>
+      <footprint>50TZV100M8X10:50TZV100M8X10.5</footprint>
+      <libsource lib="2022-02-09_01-18-55" part="50TZV100M8X10.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff9f8ad7-4b59-404e-8ad6-7c9a842c7b92</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>50TZV100M8X10.5</value>
+      <footprint>50TZV100M8X10:50TZV100M8X10.5</footprint>
+      <libsource lib="2022-02-09_01-18-55" part="50TZV100M8X10.5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5788fbf7-648a-40ca-a2fa-53e46e551abb</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>470u</value>
+      <footprint>Capacitor_THT:C_Radial_D12.5mm_H20.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78fa56ff-2656-48b3-b172-3c716666abc7</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>470u</value>
+      <footprint>Capacitor_THT:C_Radial_D12.5mm_H20.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49cdd566-4ded-425e-8680-694d7ff6ef4f</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>470u</value>
+      <footprint>Capacitor_THT:C_Radial_D12.5mm_H20.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ae34dad-f84a-43d9-9795-4bfd5ddba60a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS1200</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59ab77fb-63ed-4546-8ad5-35b9bca6dfd0</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SS1200</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9b30b22-72f0-48f6-8bbf-3f68cc274056</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SS1200</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c0c0f03-40b1-4b5e-9534-066f284cb6f6</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2310a1f8-fa08-4719-9cf9-c36b8cef5cc4</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>188ed708-33aa-4645-b712-4b185bab60ad</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bc9c615-8575-4120-90cb-2e2292c5ddff</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e6b5c93-7c10-4691-b465-5450c1797630</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f23af50d-974e-4aee-9c1a-c58fe31a30e2</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8524dc03-3986-495d-a078-85e6a3f81d66</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19d62ff8-971e-4ecd-919b-bdf4ea2d6097</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83761c68-aa10-4a7c-b9b6-b733cfd9c4a2</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff9097ff-3e91-46b6-89f1-b313c1c55781</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44763b73-bb6a-4094-877a-490fc39a4ed5</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0695aec6-d2b7-4658-bf5f-6dd0faecc8fa</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53f2ddc8-594c-4867-8cf0-5374c2eb5197</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af719119-80a2-4e54-ad0a-db748541c24d</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>MOTOR</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa3996ea-58a5-40c8-b8c5-862af4766ad0</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>JP_MS1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ba83eaf-04bf-42de-bec0-4b312ff38c8a</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>JP_MS2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6378979f-77e5-494e-80f5-6d4982227113</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>JP_MS3</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c374c32-6bd6-4f6e-9b38-046f035c3a03</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>JP_MS1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1aca3b0-279a-4426-9577-1eefd2e9a3d7</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>JP_MS2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38eb9dc2-3976-4dd6-823b-2ea739b8c86f</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>JP_MS3</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b728859c-3f00-4687-9fe4-888efcc93c0d</tstamps>
+    </comp>
+    <comp ref="JP7">
+      <value>JP_MS1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e68b085-6ce0-42f6-8835-bb2086f4b333</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>JP_MS2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e45d1ae0-dfff-4089-97ee-755d81d54d56</tstamps>
+    </comp>
+    <comp ref="JP9">
+      <value>JP_MS3</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>191655f2-c21f-4a09-802e-aecc437fa2fd</tstamps>
+    </comp>
+    <comp ref="JP10">
+      <value>JP_MS1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27eaa454-821c-4388-8a78-529dd311e40d</tstamps>
+    </comp>
+    <comp ref="JP11">
+      <value>JP_MS2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbaea685-93b4-4b40-b1a4-4444c68e60db</tstamps>
+    </comp>
+    <comp ref="JP12">
+      <value>JP_MS3</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0f467d2-a2f5-4f96-82e4-66bd5f468fe0</tstamps>
+    </comp>
+    <comp ref="JP13">
+      <value>JP_MS1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab896de2-46c3-4e08-a0a1-6b27759335da</tstamps>
+    </comp>
+    <comp ref="JP14">
+      <value>JP_MS2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d77bf8e0-1fb3-42fa-b87f-44fd06432167</tstamps>
+    </comp>
+    <comp ref="JP15">
+      <value>JP_MS3</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>290bd18b-3d89-45fa-b161-03ddf7160bf0</tstamps>
+    </comp>
+    <comp ref="JP16">
+      <value>JP_MS1</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1ebadd5-92a4-4f87-8c55-fd6a6a4626c1</tstamps>
+    </comp>
+    <comp ref="JP17">
+      <value>JP_MS2</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56f85c0d-dadb-40f6-9977-f0f83c1b8e9b</tstamps>
+    </comp>
+    <comp ref="JP18">
+      <value>JP_MS3</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23769b70-212f-487b-9017-043186827a70</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRLZ44N</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irlz44n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ44N" description="47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a715543c-f71a-415d-a590-30a661ae151f</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IRLZ44N</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irlz44n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ44N" description="47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aec2eec9-b30b-492d-8883-53580f4d7c5c</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IRLZ44N</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <datasheet>http://www.irf.com/product-info/datasheets/data/irlz44n.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="IRLZ44N" description="47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be16554e-89a5-4a15-a039-4488e3b8599a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c62fccb-32de-4b72-8e13-dbbed149f597</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e67066d-f1b3-4fd0-ac8a-bd1e05c557d7</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a92f217b-f0a3-4381-9df3-797ec866f473</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05170428-6593-4385-81fb-4a7ec4eb1fbb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1866e4bd-28c9-4906-a378-eb4791886570</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0d45097-09db-446d-8aea-525cbda6ee00</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58d57e8f-e6f6-43f6-ae4a-7ad3e2379d0e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeadd202-9481-4e66-bbea-e6357a512485</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e94ad94-7049-4c20-be0b-ea1f8409405f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68170e7a-4869-4880-999a-1a428c63092e</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b45abc0a-31b7-497d-816c-f27298e574a7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0eb59e7-f2ba-44f2-acbb-06ca865b917d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb008e63-a9b9-471c-ad5d-d08ae42aba79</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d4d8e5b-7a91-4e77-8ad0-dcc723984840</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3154b067-2773-4389-88da-19e85616ccf4</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>136498b7-4529-44d5-9cad-6d4ae1387f26</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91d52b9c-c95e-4d74-83f6-8a0e33c9425e</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>944989aa-e12d-4061-9d8e-9f3b575efa7e</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9de99d54-5fe2-4b3c-b491-9c11102255b5</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8ef70ad-5218-49a4-af6f-8940719d5683</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17701cb6-f668-428c-851f-c25c4f5f3e28</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c64985a-ba7a-47ba-9f43-89e0d7c05570</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Keystone_5005-5009_Compact</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SDP_motors.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c3a9283-dac1-4e80-8c16-fcde07733cfe</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="2022-02-09_01-18-55" part="50TZV100M8X10.5">
+      <footprints>
+        <fp>CAP_J-V_8X10P5_RUB</fp>
+        <fp>CAP_J-V_8X10P5_RUB-M</fp>
+        <fp>CAP_J-V_8X10P5_RUB-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">50TZV100M8X10.5</field>
+        <field name="Footprint">CAP_J-V_8X10P5_RUB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_Small">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Odd_Even">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4007">
+      <description>1000V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4007</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_Motor" part="Pololu_Breakout_A4988">
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <docs>https://www.pololu.com/product/2980/pictures</docs>
+      <footprints>
+        <fp>Pololu*Breakout*15.2x20.3mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Pololu_Breakout_A4988</field>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="1B" type="output"/>
+        <pin num="4" name="1A" type="output"/>
+        <pin num="5" name="2A" type="output"/>
+        <pin num="6" name="2B" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VMOT" type="power_in"/>
+        <pin num="9" name="~{ENABLE}" type="input"/>
+        <pin num="10" name="MS1" type="input"/>
+        <pin num="11" name="MS2" type="input"/>
+        <pin num="12" name="MS3" type="input"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="~{SLEEP}" type="input"/>
+        <pin num="15" name="STEP" type="input"/>
+        <pin num="16" name="DIR" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="IRLZ44N">
+      <description>47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB</description>
+      <docs>http://www.irf.com/product-info/datasheets/data/irlz44n.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRLZ44N</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.irf.com/product-info/datasheets/data/irlz44n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Driver_Motor">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Driver_Motor.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="A1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A2" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A4" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A5" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A6" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP12" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP15" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP17" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP18" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="A1" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A2" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A3" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A4" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A5" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A6" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="C1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J10" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="A1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A4" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A5" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A6" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="C1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J10" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(A1-Pad3)">
+      <node ref="A1" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(A1-Pad4)">
+      <node ref="A1" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(A1-Pad5)">
+      <node ref="A1" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(A1-Pad6)">
+      <node ref="A1" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(A1-Pad10)">
+      <node ref="A1" pin="10" pinfunction="MS1" pintype="input"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(A1-Pad11)">
+      <node ref="A1" pin="11" pinfunction="MS2" pintype="input"/>
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(A1-Pad12)">
+      <node ref="A1" pin="12" pinfunction="MS3" pintype="input"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(A1-Pad13)">
+      <node ref="A1" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A1" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(A2-Pad3)">
+      <node ref="A2" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(A2-Pad4)">
+      <node ref="A2" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(A2-Pad5)">
+      <node ref="A2" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(A2-Pad6)">
+      <node ref="A2" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(A2-Pad10)">
+      <node ref="A2" pin="10" pinfunction="MS1" pintype="input"/>
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(A2-Pad11)">
+      <node ref="A2" pin="11" pinfunction="MS2" pintype="input"/>
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(A2-Pad12)">
+      <node ref="A2" pin="12" pinfunction="MS3" pintype="input"/>
+      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(A2-Pad13)">
+      <node ref="A2" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A2" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(A3-Pad3)">
+      <node ref="A3" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(A3-Pad4)">
+      <node ref="A3" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(A3-Pad5)">
+      <node ref="A3" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(A3-Pad6)">
+      <node ref="A3" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(A3-Pad10)">
+      <node ref="A3" pin="10" pinfunction="MS1" pintype="input"/>
+      <node ref="JP7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(A3-Pad11)">
+      <node ref="A3" pin="11" pinfunction="MS2" pintype="input"/>
+      <node ref="JP8" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(A3-Pad12)">
+      <node ref="A3" pin="12" pinfunction="MS3" pintype="input"/>
+      <node ref="JP9" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(A3-Pad13)">
+      <node ref="A3" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A3" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(A4-Pad3)">
+      <node ref="A4" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(A4-Pad4)">
+      <node ref="A4" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(A4-Pad5)">
+      <node ref="A4" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(A4-Pad6)">
+      <node ref="A4" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(A4-Pad10)">
+      <node ref="A4" pin="10" pinfunction="MS1" pintype="input"/>
+      <node ref="JP10" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(A4-Pad11)">
+      <node ref="A4" pin="11" pinfunction="MS2" pintype="input"/>
+      <node ref="JP11" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(A4-Pad12)">
+      <node ref="A4" pin="12" pinfunction="MS3" pintype="input"/>
+      <node ref="JP12" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(A4-Pad13)">
+      <node ref="A4" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A4" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(A5-Pad3)">
+      <node ref="A5" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(A5-Pad4)">
+      <node ref="A5" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(A5-Pad5)">
+      <node ref="A5" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(A5-Pad6)">
+      <node ref="A5" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(A5-Pad10)">
+      <node ref="A5" pin="10" pinfunction="MS1" pintype="input"/>
+      <node ref="JP13" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(A5-Pad11)">
+      <node ref="A5" pin="11" pinfunction="MS2" pintype="input"/>
+      <node ref="JP14" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(A5-Pad12)">
+      <node ref="A5" pin="12" pinfunction="MS3" pintype="input"/>
+      <node ref="JP15" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(A5-Pad13)">
+      <node ref="A5" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A5" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(A6-Pad3)">
+      <node ref="A6" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(A6-Pad4)">
+      <node ref="A6" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(A6-Pad5)">
+      <node ref="A6" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(A6-Pad6)">
+      <node ref="A6" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(A6-Pad10)">
+      <node ref="A6" pin="10" pinfunction="MS1" pintype="input"/>
+      <node ref="JP16" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(A6-Pad11)">
+      <node ref="A6" pin="11" pinfunction="MS2" pintype="input"/>
+      <node ref="JP17" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(A6-Pad12)">
+      <node ref="A6" pin="12" pinfunction="MS3" pintype="input"/>
+      <node ref="JP18" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(A6-Pad13)">
+      <node ref="A6" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A6" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="55" name="P72_FAN">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="P76_EN">
+      <node ref="A1" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+      <node ref="A3" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="57" name="P77_STEP">
+      <node ref="A1" pin="15" pinfunction="STEP" pintype="input"/>
+      <node ref="A3" pin="15" pinfunction="STEP" pintype="input"/>
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="P78_DIR">
+      <node ref="A1" pin="16" pinfunction="DIR" pintype="input"/>
+      <node ref="A3" pin="16" pinfunction="DIR" pintype="input"/>
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="P79_EN">
+      <node ref="A5" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+      <node ref="A6" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="60" name="P80_STEP">
+      <node ref="A5" pin="15" pinfunction="STEP" pintype="input"/>
+      <node ref="A6" pin="15" pinfunction="STEP" pintype="input"/>
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="P81_DIR">
+      <node ref="A5" pin="16" pinfunction="DIR" pintype="input"/>
+      <node ref="A6" pin="16" pinfunction="DIR" pintype="input"/>
+      <node ref="J10" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="P82_EN">
+      <node ref="A2" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+      <node ref="A4" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+      <node ref="J10" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="63" name="P83_STEP">
+      <node ref="A2" pin="15" pinfunction="STEP" pintype="input"/>
+      <node ref="A4" pin="15" pinfunction="STEP" pintype="input"/>
+      <node ref="J10" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="P84_DIR">
+      <node ref="A2" pin="16" pinfunction="DIR" pintype="input"/>
+      <node ref="A4" pin="16" pinfunction="DIR" pintype="input"/>
+      <node ref="J10" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="P87_MTR1">
+      <node ref="J10" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="P88_MTR2">
+      <node ref="J10" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="unconnected-(H1-Pad1)">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(H2-Pad1)">
+      <node ref="H2" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(H3-Pad1)">
+      <node ref="H3" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(H4-Pad1)">
+      <node ref="H4" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
